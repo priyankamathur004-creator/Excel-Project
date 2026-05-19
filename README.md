@@ -41,6 +41,8 @@ Style Advisor Details → Names and descriptions.
 <img width="470" height="119" alt="image" src="https://github.com/user-attachments/assets/2d7aa3d2-b2d5-47b1-98b6-4d319e9c137e" />
 
 -- Pivot Table Analysis → Average scores and percentage of high performers by zone.
+
+
 <img width="220" height="347" alt="image" src="https://github.com/user-attachments/assets/7bdc7aee-1662-4a21-97bd-6135345957ad" />
 
 -- Visualization → Create charts to show performance distribution and trends.
